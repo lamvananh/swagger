@@ -1,4 +1,4 @@
-# swagger-express-jsdoc
+# swagger-express-jsdoc  https://editor.swagger.io/
 Example of [Express][1] with [swagger-jsdoc][2]
 
 [![NPM](https://nodei.co/npm/swagger-express-jsdoc.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/swagger-express-jsdoc/)
